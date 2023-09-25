@@ -3,3 +3,6 @@ https://quarto.org/docs/download/tarball.html
 
 # HTML format options
 https://quarto.org/docs/reference/formats/html.html
+
+# Getting Started Workflow
+https://quarto.org/docs/computations/python.html#workflow
